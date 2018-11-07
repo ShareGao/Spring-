@@ -1,1 +1,4 @@
 
+本文主要介绍springmvc的框架原理，并通过一个入门程序展示环境搭建，配置以及部署调试。
+
+springmvc是spring框架的一个模块，springmvc和spring无需通过中间整合层进行整合。
